@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<title>Daftar Post</title>
+    <title>Daftar Post</title>
 </head>
 <body>
     <h1>Daftar Post</h1>

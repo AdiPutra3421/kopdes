@@ -17,3 +17,5 @@ Route::get('/', function () {
 
 Route::get('/posts', [PostController::class, 'index']);
 Route::resource('products', ProductController::class);
+
+require __DIR__.'/praktikum.php';
